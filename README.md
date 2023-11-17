@@ -18,6 +18,20 @@ Le projet est développé en utilisant les technologies suivantes :
 4. Bootstrap : Framework CSS pour le développement rapide et la stylisation.
 5. Supabase : Système de gestion de base de données, basé sur Postgres
 
+
+## SCREENSHOTS
+<img width="1326" alt="Capture d’écran 2023-11-17 à 04 11 52" src="https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/19999905-8cce-49ae-aa01-7ebf05c99143">
+
+![image](https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/3c7365c5-29df-48c9-b1a2-5a2ed9c0f828)
+
+![image](https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/74b9ee7a-985e-4a37-b578-ff48069e2ab5)
+
+![image](https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/eeb3bd96-1ea0-4f7b-9574-b620ce25210d)
+
+
+
+
+
 ## Objectifs
 L'objectif principal est de créer une plateforme web où les utilisateurs peuvent consulter, acheter, et proposer des meubles à vendre. Les fonctionnalités clés incluent :
 
