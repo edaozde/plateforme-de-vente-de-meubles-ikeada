@@ -19,7 +19,7 @@ Le projet est développé en utilisant les technologies suivantes :
 5. Supabase : Système de gestion de base de données, basé sur Postgres
 
 
-## SCREENSHOTS
+## Aperçu du site
 <img width="1326" alt="Capture d’écran 2023-11-17 à 04 11 52" src="https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/19999905-8cce-49ae-aa01-7ebf05c99143">
 
 ![image](https://github.com/edaozde/plateforme-de-vente-de-meubles-ikeada/assets/80428208/3c7365c5-29df-48c9-b1a2-5a2ed9c0f828)
