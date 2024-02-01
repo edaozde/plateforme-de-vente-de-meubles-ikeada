@@ -13,13 +13,20 @@
 
 /* Fond du site web style start */
 
+p, h1, h2, h3, h4, li {
+    color: var(--deep--onyx)  !important
+}
+
+.pp--materials-lgd {
+    color:var(--deep--onyx);
+    font-size:medium;
+}
+
 .website--container {
     background-color: #E2E3DEFF;
     width: 100%;
     height: 100%;
-    padding-top: 3%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding: 0 5%;
     font-family: 'Hanken Grotesk', sans-serif;
 }
 
@@ -37,6 +44,8 @@ background-color: #fff;
 .navbar--container, .navbar {
     background-color: #fff;
 }
+
+
 
 .navbar--border-wrapper {
     width: 100%; /* Largeur de la bordure */
@@ -270,6 +279,8 @@ opacity: 1;
     padding: 0 !important;
 } */
 /* Card Style End */
+
+/* Product Page Style */
 
 /* Footer Style Start */
 
